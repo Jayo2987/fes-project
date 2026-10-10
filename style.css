@@ -561,7 +561,7 @@ STEPS ↓
 
 .step {
   display:flex;
-  aligh-items: flex-start;
+  align-items: flex-start;
   margin-top: 32px;
 }
 
